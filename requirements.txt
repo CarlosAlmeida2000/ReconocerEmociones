@@ -1,0 +1,6 @@
+numpy==1.17.4
+pandas
+opencv-python
+opencv-contrib-python
+tqdm
+tensorflow==2.5.3
